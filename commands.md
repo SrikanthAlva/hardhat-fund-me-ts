@@ -29,7 +29,7 @@ yarn hardhat deploy --network rinkeby //Deploys to rinkeby testnet
 
 yarn hardhat test // Runs tests on local hardhat network
 yarn hardhat test --grep funded // Runs onlyTests with description "funded" in it
-yarn hardhat test --network rinkeby // Runs tests on local hardhat network
+yarn hardhat test --network rinkeby // Runs tests on rinkeby testnet
 
 yarn hardhat node // Start persistant hardhat node
 // On a New Tab
